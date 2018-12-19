@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/TannerReynolds/Translation-Bot#readme",
   "dependencies": {
+    "@k3rn31p4nic/google-translate-api": "^1.0.5",
     "eris": "^0.7.2",
     "flipout": "^1.0.0",
     "gizoogle": "0.0.6",
